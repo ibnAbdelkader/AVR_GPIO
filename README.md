@@ -1,2 +1,3 @@
 # AVR
-ITI course using Atmega16
+
+ITI 9-month course of hardware interfacing using Atmega16.
