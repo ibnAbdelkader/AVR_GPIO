@@ -1,3 +1,3 @@
 # AVR
 
-ITI 9-month course of hardware interfacing using Atmega16.
+A part of ITI 9-month course of hardware interfacing focus on Atmega16 GPIO.
